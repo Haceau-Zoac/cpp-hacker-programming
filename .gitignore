@@ -39,7 +39,7 @@ cmake_install.cmake
 # Visual C++ projects
 *.vcxproj
 *.vcxproj.filters
-.sln
+*.sln
 
 # Build files
 debug
