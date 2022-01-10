@@ -36,6 +36,11 @@ CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
 
+# Visual C++ projects
+*.vcxproj
+*.vcxproj.filters
+.sln
+
 # Build files
 debug
 x64
